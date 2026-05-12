@@ -1,7 +1,7 @@
 # Projetos em C
 ## Exemplos
 
-### Código 67
+### Código "67"
 ```c
 #include <stdio.h>
 int main(){
@@ -17,7 +17,7 @@ int main(){
 }
 ```
 
-### Código IMC
+### Código "IMC"
 ```c
 #include <stdio.h>
 int main(){
@@ -49,7 +49,7 @@ int main(){
 }
 ```
 
-### Código Notas de alunos
+### Código "Notas de alunos"
 ```c
 #include <stdio.h>
 #include <windows.h>
